@@ -7,8 +7,6 @@ Find and download the latest version of **_[Sublime Text 3](sublimetext.com)_** 
 ## YouTube Channel
 You can watch the complete video of this topic on my :musical_note: **_[YouTube](https://youtube.com/)_** channel and do not forget to **[SUBSCRIBE](https://www.youtube.com/channel/UCJWIWgpwjjbhpYuQTD1lqWw)** :thumbsup:
 
-Donate: 
-
 ### License Serial
 **_Copy_** and **_paste_** the below license serial from beginning to the end into your Sublime Text 3 license key area.
 
@@ -27,3 +25,6 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 8C8BB2AD B2ECE5A4 EFC08AF2 25A9B864
 ------ END LICENSE ------
 ```
+
+# PayPal Donate - [paypal.me](paypal.me/nzsoft)
+Donate as much as you want: **[$1, $3, $5 or more...](paypal.me/nzsoft)**
