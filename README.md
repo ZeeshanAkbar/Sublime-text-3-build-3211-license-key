@@ -26,5 +26,5 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 ------ END LICENSE ------
 ```
 
-# PayPal Donate - [paypal.me](paypal.me/nzsoft)
-Donate as much as you want: **[$1, $3, $5 or more...](paypal.me/nzsoft)**
+# PayPal Donate - [paypal.me/nzsoft](paypal.me/nzsoft)
+Don't delay **_donate_** today: **[$1, $3, $5 or more...](paypal.me/nzsoft)**
